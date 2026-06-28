@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on my portfolio<br>I'm currently fully focused on Data Analysis and Backend dev<br>I'm currently learning django
+#  About Me:
+Hi, Zayd here, a software developer(Not clear on my title yet ) who believes the fastest way to learn is by building. I'm passionate about backend engineering, AI, and creating products that are fun,cheeky and  attempt solve real-world problems. This GitHub is my journey from tutorial hell to shipping Ideas.
 
 
 ## 🌐 Socials:
